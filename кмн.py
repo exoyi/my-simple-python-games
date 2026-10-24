@@ -6,7 +6,7 @@ while True:
     print(f"Я выбрал {computer}!")
     if choice == computer:
         question = input("Ничья. Хотите сыграть ещё раз? (да/нет) ").lower().strip()
-    elif (choice == "камень" and computer == "ножницы") or (choice == "ножницы" and computer == "бумагу") or (choice == "бумага" and computer == "камень"):
+    elif (choice == "камень" and computer == "ножницы") or (choice == "ножницы" and computer == "бумагу") or (choice == "бумагу" and computer == "камень"):
         question = input("Вы выиграли. Хотите сыграть ещё раз? (да/нет) ").lower().strip()
         score += 1
     else:
