@@ -1,2 +1,1 @@
-# rock-paper-scissors
-My first Python game
+# my simple python games
