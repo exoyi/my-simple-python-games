@@ -1,1 +1,1 @@
-# my simple python games
+# my simple python game
